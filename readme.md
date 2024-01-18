@@ -1,33 +1,24 @@
-# CIFAR-10 Image classification App
-# Rizwan Ali  SP20-bse-033
+# Sp20-Bse-033 Rizwan Ali
 
-Brief introduction about your project.
-
-## Installation
-
-Follow these steps to set up your project environment and run the project.
+## How to Install
 
 ### Step 1: Create a Virtual Environment
-
-First, create a virtual environment using the following command:
+To create a virtual environment, run the following command:
 
 ```bash
 python -m venv venv
 
-
-### Step 2: To active the virtual environment:
-
-Active the virtual environment:
-
+Step 2: Activate the Virtual Environment
+Activate the virtual environment with:
 
 .\venv\Scripts\activate
 
+Step 3: Install Required Libraries
+Install the necessary libraries using:
 
-Install the libraries using following command:
+pip install -r requirements.txt
 
-pip install -r requirements.txt\
+Step 4: Run the Project
+Finally, run the project with:
 
-Run project using:
-
-```bash
 python app.py
