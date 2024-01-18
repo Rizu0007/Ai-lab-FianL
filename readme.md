@@ -9,7 +9,14 @@ To create a virtual environment, run the following command:
 python -m venv venv
 ```
 
+<<<<<<< HEAD
 # Step 2: Activate the Virtual Environment
+=======
+```
+
+
+Step 2: Activate the Virtual Environment
+>>>>>>> b13883443308260fb8ffd031c1d860696b86407a
 Activate the virtual environment with:
 ```bash
 
