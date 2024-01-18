@@ -14,15 +14,17 @@ First, create a virtual environment using the following command:
 ```bash
 python -m venv venv
 
+
+### Step 2: To active the virtual environment:
+
 Active the virtual environment:
 
-```bash
+
 .\venv\Scripts\activate
 
 
 Install the libraries using following command:
 
-```bash
 pip install -r requirements.txt\
 
 Run project using:
